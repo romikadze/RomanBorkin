@@ -1,1 +1,5 @@
-Your a cool teacher ^_^ thx
+///// Lesson_2 \\\\\
+Your a cool teacher ^_^ thx || (task for lesson_2)
+
+///// Lesson_3 \\\\\
+Я уже знаком с основами C#, поэтому залип в проекте L3. Может сразу видишь недочеты?
