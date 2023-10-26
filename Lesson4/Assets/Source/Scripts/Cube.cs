@@ -1,67 +1,77 @@
+using System;
 using UnityEngine;
 
+[RequireComponent(typeof(Food))]
 public class Cube : MonoBehaviour
 {
     [SerializeField] private float _speed = 5;
-    private float _score = 1;
+    private Food _food;
+    private Food _enemyFood;
+    private float _enemyScore;
+    private Vector3 _punchDirection;
 
-    public delegate void ScoreChange();
-    public event ScoreChange scoreChanged;
 
-    //Increase/Decrease score => change size
-    public void ChangeScore(float amount)
+    public Action scoreChanged;
+
+    private void Start()
     {
-        _score += amount;
-        ChangeSize();
+        _food = GetComponent<Food>();
     }
 
-    //Increase/Decrease size
+    private void Damage(Food food, float scoreDamage, Vector3 punchDirection)
+    {
+        food.GetComponent<Rigidbody>().AddForce(punchDirection * 10 + Vector3.up * 5, ForceMode.Impulse);
+        food.ChangeScore(-scoreDamage);
+    }
+
+    private void Eat(float scoreIncrease)
+    {
+        _food.ChangeScore(scoreIncrease);
+    }
+
+    public float GetSpeed()
+    {
+        _food = GetComponent<Food>();
+        return _speed / _food.GetScore();
+    }
+
     private void ChangeSize()
     {
-        transform.localScale = Vector3.one * _score;
+        transform.localScale = Vector3.one * _food.GetScore();
         scoreChanged?.Invoke();
     }
 
-    public float GetScore()
+    private float GetScoreChange(float enemyScore)
     {
-        return _score;
-    }
+        float scoreChange;
 
-    //Punch and take damage when touched by strong enemy. Die option
-    private void Damage(float scoreDamage, Vector3 punchDirection)
-    {
-        GetComponent<Rigidbody>().AddForce(punchDirection * 10 + Vector3.up * 5, ForceMode.Impulse);
-        ChangeScore(-scoreDamage);
-        if (_score < 0.5f)
-            Destroy(gameObject);
-    }
-
-    //Get cube speed using it score
-    public float GetSpeed()
-    {
-        return _speed / _score;
+        if (enemyScore > 0.5f)
+            scoreChange = 0.3f;
+        else
+            scoreChange = enemyScore;
+        return scoreChange;
     }
 
     //Take damage or get enemy score when touching the cube
     private void OnCollisionEnter(Collision collision)
     {
-        if (collision.gameObject.tag == "Cube")
+        if (collision.gameObject.GetComponent<Food>() != null)
         {
-            Cube enemyCube = collision.gameObject.GetComponent<Cube>();
-            if (GetScore() > enemyCube.GetScore())
+            _enemyFood = collision.gameObject.GetComponent<Food>();
+            _enemyScore = _enemyFood.GetScore();
+            _punchDirection = (transform.position - collision.gameObject.transform.position).normalized;
+
+            if (_food.GetScore() > _enemyScore)
             {
-                ChangeScore(0.4f);
+                Eat(GetScoreChange(_enemyScore));
+                Damage(collision.gameObject.GetComponent<Food>(), GetScoreChange(_enemyScore), _punchDirection);
             }
-            else if (GetScore() < enemyCube.GetScore())
+            else if (_food.GetScore() == _enemyScore)
             {
-                Vector3 punchDirection = (transform.position - collision.gameObject.transform.position).normalized;
-                Damage(0.4f, punchDirection);
+                Damage(_enemyFood, 0, _punchDirection);
             }
-            else
-            {
-                Vector3 punchDirection = (transform.position - collision.gameObject.transform.position).normalized;
-                Damage(0, punchDirection);
-            }
+
+            ChangeSize();
         }
     }
 }

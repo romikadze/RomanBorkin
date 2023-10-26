@@ -258,7 +258,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 172fedcbb059acf4689efb0ed5861bef, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _cubePrefab: {fileID: 4615618989371253749, guid: e0e8743677de6504d8234f78308726ca, type: 3}
+  _cubePrefab: {fileID: 1402869960182757222, guid: e0e8743677de6504d8234f78308726ca, type: 3}
   _mapSizeXZ: 20
   _maxEnemies: 3
 --- !u!4 &224911055
@@ -305,7 +305,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a2eeb05e5f67d414cade9d99da01aa35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _foodPrefab: {fileID: 7687848265283373816, guid: af01e509e74ec07419e0c1c4206fb30d, type: 3}
+  _foodPrefab: {fileID: 6385427513741532549, guid: af01e509e74ec07419e0c1c4206fb30d, type: 3}
   _spawnRate: 1.5
 --- !u!4 &226718303
 Transform:

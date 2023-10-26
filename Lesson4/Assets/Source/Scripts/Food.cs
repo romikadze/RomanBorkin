@@ -1,18 +1,23 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class Food : MonoBehaviour
 {
-    [SerializeField] private float _scoreIncrease = 0.01f;
+    [SerializeField] private float _score = 1;
 
-    //Increase cube score and destroy food gameObject
-    private void OnCollisionEnter(Collision collision)
+    public void ChangeScore(float amount)
     {
-        if (collision.gameObject.tag == "Cube")
-        {
-            collision.gameObject.GetComponent<Cube>().ChangeScore(_scoreIncrease);
-            Destroy(gameObject);
-        }
+        _score += amount;
+        if (_score < 0.5f)
+            Die();
+    }
+
+    public float GetScore()
+    {
+        return _score;
+    }
+
+    private void Die()
+    {
+        Destroy(gameObject);
     }
 }
