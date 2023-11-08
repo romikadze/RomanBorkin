@@ -4,20 +4,17 @@ using UnityEngine;
 
 public class CannonBall : MonoBehaviour
 {
-    [SerializeField] private float shotForce;
-    [SerializeField] private float lifeTime;
+    [SerializeField] private float _shotForce;
     private Rigidbody _rigidbody;
 
-    void Start()
+    private void Awake()
     {
         _rigidbody = GetComponent<Rigidbody>();
-        _rigidbody.AddForce(transform.forward * shotForce, ForceMode.Impulse);
-        StartCoroutine(LifeTime());
+        _rigidbody.AddForce(transform.forward * _shotForce, ForceMode.Impulse);
     }
 
-    private IEnumerator LifeTime()
+    private void Start()
     {
-        yield return new WaitForSeconds(lifeTime);
-        Destroy(gameObject);
+        Destroy(gameObject, 3f);
     }
 }

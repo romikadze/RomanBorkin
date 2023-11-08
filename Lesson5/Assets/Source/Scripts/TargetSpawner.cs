@@ -9,10 +9,10 @@ public class TargetSpawner : MonoBehaviour
 
     private void Start()
     {
-        SpawnTargetInRandomPosition();
-        SpawnTargetInRandomPosition();
-        SpawnTargetInRandomPosition();
-        SpawnTargetInRandomPosition();
+        for (int i = 0; i < 4; i++)
+        {
+            SpawnTargetInRandomPosition();
+        }
     }
 
     public void SpawnTargetInRandomPosition()

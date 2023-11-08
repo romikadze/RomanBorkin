@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CannonRotator : MonoBehaviour
+public class Guidance : MonoBehaviour
 {
     [SerializeField] private Transform _gunBarrel;
     [SerializeField] private float _rotationSpeed = 0.2f;
