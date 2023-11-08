@@ -15,12 +15,11 @@ public class References : MonoBehaviour
         Debug.Log("ID: " + _id);
         Debug.Log("new ID: " + newId);
 
-        //???????
+
         string newName = _name;
         _name = "User123";
         Debug.Log("Name: " + _name);
         Debug.Log("new Name: " + newName);
-        //???????
 
         _data.Id = _id;
 
