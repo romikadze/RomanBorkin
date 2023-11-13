@@ -4,8 +4,10 @@ using UnityEngine;
 
 public class Target : MonoBehaviour
 {
+    [SerializeField] private int _hitsToDestroy;
     private TargetSpawner _spawner;
     private CannonUI _cannonUI;
+
 
     private void Awake()
     {
@@ -13,10 +15,23 @@ public class Target : MonoBehaviour
         _cannonUI = FindObjectOfType<CannonUI>();
     }
 
-    private void OnCollisionEnter(Collision collision)
+    private protected virtual void Hit()
     {
         _cannonUI.UpdateTargetHits();
-        _spawner.SpawnTargetInRandomPosition();
-        Destroy(gameObject);  
+        _hitsToDestroy--;
+        if (_hitsToDestroy == 0)
+            Respawn();
+
+    }
+
+    private void Respawn()
+    {
+        _spawner.SpawnTarget();
+        Destroy(gameObject);
+    }
+
+    private void OnCollisionEnter(Collision collision)
+    {
+        Hit();
     }
 }

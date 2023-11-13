@@ -7,6 +7,8 @@ public class CannonUI : MonoBehaviour
     [SerializeField] private TextMeshProUGUI _targetHitsText;
     [SerializeField] private TextMeshProUGUI _ammoText;
     private int _hits = 0;
+    private int _currentAmmo = 0;
+    private int _maxAmmo = 0;
 
     public void UpdateTargetHits()
     {

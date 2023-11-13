@@ -5,17 +5,17 @@ using UnityEngine;
 public class TargetSpawner : MonoBehaviour
 {
     [SerializeField] private Transform _targetPositions;
-    [SerializeField] private Transform _targetTranform;
+    [SerializeField] private Transform[] _targetTranforms;
 
     private void Start()
     {
         for (int i = 0; i < 4; i++)
         {
-            SpawnTargetInRandomPosition();
+            SpawnTarget();
         }
     }
 
-    public void SpawnTargetInRandomPosition()
+    public void SpawnTarget()
     {
         int row, column, depth;
         do
@@ -26,6 +26,6 @@ public class TargetSpawner : MonoBehaviour
         }
         while (_targetPositions.GetChild(depth).GetChild(column * 3 + row).childCount != 0);
 
-        Instantiate(_targetTranform, _targetPositions.GetChild(depth).GetChild(column * 3 + row));
+        Instantiate(_targetTranforms[Random.Range(0, _targetTranforms.Length)], _targetPositions.GetChild(depth).GetChild(column * 3 + row));
     }
 }
