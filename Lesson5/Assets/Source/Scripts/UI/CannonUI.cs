@@ -6,14 +6,20 @@ public class CannonUI : MonoBehaviour
 {
     [SerializeField] private TextMeshProUGUI _targetHitsText;
     [SerializeField] private TextMeshProUGUI _ammoText;
-    private int _hits = 0;
-    private int _currentAmmo = 0;
-    private int _maxAmmo = 0;
+    [SerializeField] private TargetSpawner _targetSpawner;
+    [SerializeField] private CannonSwitcher _cannonSwitcher;
 
-    public void UpdateTargetHits()
+    private int _points = 0;
+
+    private void Awake()
     {
-        _hits++;
-        _targetHitsText.text = "Hits: " + _hits;
+        _cannonSwitcher.OnAmmoChange += UpdateAmmo;
+        _targetSpawner.OnTargetHit += UpdateTargetHits;
+    }
+    public void UpdateTargetHits(int points)
+    {
+        _points+= points;
+        _targetHitsText.text = "Points: " + _points;
     }
 
     public void UpdateAmmo(int currentAmmo, int maxAmmo)

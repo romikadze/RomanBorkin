@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -5,27 +6,66 @@ using UnityEngine;
 public class TargetSpawner : MonoBehaviour
 {
     [SerializeField] private Transform _targetPositions;
-    [SerializeField] private Transform[] _targetTranforms;
+    [Header("Target prefabs")]
+    [SerializeField] private GameObject _basicTargetTranform;
+    [SerializeField] private GameObject _colorTargetTranform;
+    [SerializeField] private GameObject _inverseTargetTranform;
+
+    public Action<int> OnTargetHit;
 
     private void Start()
     {
         for (int i = 0; i < 4; i++)
         {
-            SpawnTarget();
+            SpawnRandomTarget();
         }
     }
 
-    public void SpawnTarget()
+    public void SpawnRandomTarget()
     {
-        int row, column, depth;
+        switch (UnityEngine.Random.Range(0, 3))
+        {
+            case 0: SpawnBasicTarget(); break;
+            case 1: SpawnColorTarget(); break;
+            case 2: SpawnInverseTarget(); break;
+        }
+    }
+
+    public void SpawnBasicTarget()
+    {
+        SpawnTarget(_basicTargetTranform);
+    }
+
+    public void SpawnColorTarget()
+    {
+        SpawnTarget(_colorTargetTranform);
+    }
+
+    public void SpawnInverseTarget()
+    {
+        SpawnTarget(_inverseTargetTranform);
+    }
+
+    private void SpawnTarget(GameObject target)
+    {
+        GetAvaiblePosition(out int xy, out int z);
+        BasicTarget newTarget = Instantiate(target, _targetPositions.GetChild(z).GetChild(xy)).GetComponent<BasicTarget>();
+        newTarget.OnTargetHit += TargetHit;
+        newTarget.OnTargetDestroy += SpawnRandomTarget;
+    }
+
+    private void GetAvaiblePosition(out int xy, out int z)
+    {
         do
         {
-            depth = Random.Range(0, 2);
-            column = Random.Range(0, 3);
-            row = Random.Range(0, 3);
+            z = UnityEngine.Random.Range(0, 2);
+            xy = UnityEngine.Random.Range(0, 3);
         }
-        while (_targetPositions.GetChild(depth).GetChild(column * 3 + row).childCount != 0);
+        while (_targetPositions.GetChild(z).GetChild(xy).childCount != 0);
+    }
 
-        Instantiate(_targetTranforms[Random.Range(0, _targetTranforms.Length)], _targetPositions.GetChild(depth).GetChild(column * 3 + row));
+    private void TargetHit(int points)
+    {
+        OnTargetHit?.Invoke(points);
     }
 }

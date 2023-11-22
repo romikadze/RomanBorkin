@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class InverseTarget : Target
+public class InverseTarget : BasicTarget
 {
     private protected override void Hit()
     {

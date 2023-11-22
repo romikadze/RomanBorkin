@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ScaleTarget : Target
+public class ScaleTarget : BasicTarget
 {
     private protected override void Hit()
     {

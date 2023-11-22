@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -15,21 +16,17 @@ public class BasicCannon : MonoBehaviour
     private protected int _currentAmmo;
     private protected bool _isReadyToFire = true;
     private protected Coroutine _reloading;
-    private protected CannonUI _cannonUI;
+
+    public Action<int, int> OnAmmoChange;
 
     private void Awake()
     {
-        _cannonUI = FindObjectOfType<CannonUI>();
+        _currentAmmo = _maxAmmo;
     }
 
     private void OnEnable()
     {
-        _cannonUI.UpdateAmmo(_currentAmmo, _maxAmmo);
-    }
-
-    private void Start()
-    {
-        _currentAmmo = _maxAmmo;
+        OnAmmoChange?.Invoke(_currentAmmo, _maxAmmo);
     }
 
     private void Update()
@@ -46,13 +43,13 @@ public class BasicCannon : MonoBehaviour
         Instantiate(_cannonBall, _shotPoint.position, _shotPoint.rotation);
         _isReadyToFire = false;
         _currentAmmo--;
-        _cannonUI.UpdateAmmo(_currentAmmo, _maxAmmo); 
+        OnAmmoChange?.Invoke(_currentAmmo, _maxAmmo);
         StartCoroutine(FireDelay());
     }
 
     private protected IEnumerator FireDelay()
     {
-        
+
         yield return new WaitForSeconds(_fireDelay);
         _isReadyToFire = true;
     }
@@ -63,7 +60,7 @@ public class BasicCannon : MonoBehaviour
         {
             yield return new WaitForSeconds(_reloadDelay);
             _currentAmmo++;
-            _cannonUI.UpdateAmmo(_currentAmmo, _maxAmmo);
+            OnAmmoChange?.Invoke(_currentAmmo, _maxAmmo);
         }
         _reloading = null;
     }

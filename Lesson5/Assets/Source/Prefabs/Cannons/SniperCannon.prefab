@@ -98,7 +98,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _shotPoint: {fileID: 211361080483819668}
-  _cannonBall: {fileID: 7569254235353288009, guid: 68edaec9709bf4e4e90b4d70d6407775, type: 3}
+  _cannonBall: {fileID: 756369545385096010, guid: 40b9dc672c74f5141bd8688caf82b51f, type: 3}
   _reloadDelay: 2
   _fireDelay: 2
   _maxAmmo: 7
