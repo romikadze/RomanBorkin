@@ -6,6 +6,6 @@ public class Brick : Wall
 {
     private protected override void Hit(Collision2D collision)
     {
-        Damage(_collideForce, 0.8f);
+        Damage(_collideForce, 0.6f);
     }
 }

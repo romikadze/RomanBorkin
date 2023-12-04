@@ -10,9 +10,9 @@ GameObject:
   m_Component:
   - component: {fileID: 8334219776141258154}
   - component: {fileID: 3305523936534037279}
+  - component: {fileID: 201204388565119493}
   - component: {fileID: 8826561970461446016}
   - component: {fileID: 358443228212869324}
-  - component: {fileID: 201204388565119493}
   - component: {fileID: 7828596246842323862}
   m_Layer: 0
   m_Name: Bomb
@@ -30,7 +30,7 @@ Transform:
   m_GameObject: {fileID: 1701739005908869293}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -2, y: -1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -88,6 +88,23 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &201204388565119493
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1701739005908869293}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7d43e9c4c5ae364084bc8b2f1cd04c3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _shotPoint: {fileID: 0}
+  _damageMultiplier: 1
+  _explosionDamageForce: 20
+  _explosionRadius: 8
+  _explosionPushForce: 350
 --- !u!50 &8826561970461446016
 Rigidbody2D:
   serializedVersion: 4
@@ -150,23 +167,6 @@ CircleCollider2D:
   m_Offset: {x: 0.0033333302, y: 0.01979947}
   serializedVersion: 2
   m_Radius: 0.6035166
---- !u!114 &201204388565119493
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1701739005908869293}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c7d43e9c4c5ae364084bc8b2f1cd04c3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _shotPoint: {fileID: 0}
-  _damageMultiplier: 1
-  _explosionDamageForce: 20
-  _explosionRadius: 5
-  _explosionPushForce: 100
 --- !u!58 &7828596246842323862
 CircleCollider2D:
   m_ObjectHideFlags: 0

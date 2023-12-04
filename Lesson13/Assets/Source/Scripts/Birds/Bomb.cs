@@ -17,7 +17,7 @@ public class Bomb : Bird
     private void Explode()
     {
         Collider2D[] hits = Physics2D.OverlapCircleAll(transform.position, _explosionRadius);
-        List<GameObject> hitObjects = new();
+        List<GameObject> hitObjects = new ();
         foreach (var hit in hits)
         {
             if (!hitObjects.Contains(hit.gameObject))

@@ -13,7 +13,6 @@ public class Wall : MonoBehaviour, IDamageable
         _rigidbody2D = GetComponent<Rigidbody2D>();
     }
 
-
     public void Damage(float hitForce, float damageMultiplier = 1)
     {
         if (damageMultiplier <= 0) return;
