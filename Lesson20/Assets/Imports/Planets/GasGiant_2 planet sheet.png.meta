@@ -1,0 +1,1460 @@
+fileFormatVersion: 2
+guid: 5fedbcdcac12836499d05d6f7f5e37aa
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 591
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fa022ea76a7bd4e828e05e0c04165c
+      internalID: 942360592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 591
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c624ed282a20348b3f47176c0ffccd
+      internalID: -1673988271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_2
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 591
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683d4db43f06b3f48ada95d0e7e532a2
+      internalID: 486549123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_3
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 591
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28716d8b53e477645b760eb8e96f4141
+      internalID: -1932554432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_4
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 591
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517aece7ed62d48488d9905138e339e4
+      internalID: -1798473332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_5
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 591
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08193f206fd461247901d003b2b581b2
+      internalID: -888171010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 591
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7405890ccfc67428c0e95638ebb696
+      internalID: -2017351870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 591
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfaa2c9c8ee126344bc15807a417bd24
+      internalID: 1733400746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 591
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7a42dfcd3118a47923cb6b52382ae3
+      internalID: -274086662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 591
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e9e49a4b8de8a42a27d0abf5f4e6f6
+      internalID: 1720532053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 591
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6bd886d5d03bf41a065da3e67acc40
+      internalID: -728633919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 591
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a06bca807d17b4eb7b9e55295b3705
+      internalID: -1724315346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 591
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32839ab2684782245b6b31af99aa0a4c
+      internalID: 859456769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_13
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 591
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3cb1a14e147cfd418cc908ef9ebfc90
+      internalID: -1749507216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2744
+        y: 591
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67c2e543c17196498147552d97a74cd
+      internalID: -276674872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 394
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116a0effd3d35994bb577e41bb935fc1
+      internalID: 887735460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_16
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 394
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d77e3efd14a68243a15a95a7195c133
+      internalID: 1760671176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_17
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 394
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c202fe5f4679346a8d29a9dd5844be
+      internalID: -445027051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_18
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 394
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f41d578229c314a86e6458a0640291
+      internalID: 429938683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_19
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 394
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa8982f21c34c14bbd9fa7f9558b4de
+      internalID: -525880058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_20
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 394
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d384b4143024744b5cd872aca5a76c
+      internalID: -1351557345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 394
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03acd05e599918041877a2f6a4220369
+      internalID: -1764344470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 394
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a44a5c469188fe47bd00daf4595e35b
+      internalID: 1350402907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 394
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464f6c6f9df5edd43ab2b8ee723069ad
+      internalID: -629836827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 394
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9248f1812da781849952ec9aa211f3af
+      internalID: -1126185296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 394
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958411b8e91624a408f4b1cc2dfca3f2
+      internalID: 109506049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_26
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 394
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e68c4b1dc998647ac545a7c6ca3918
+      internalID: 1215143323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_27
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 394
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9ad255877756043bee7ae06bbdf033
+      internalID: -1426454049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_28
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 394
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b4afd091d39be42b9b634ebd148ac0
+      internalID: 786596415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2744
+        y: 394
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfeb874c6a232b4d8a8b818fc12ca34
+      internalID: -474840268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 197
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142dffa9edeb2e642b724af126ce3e1c
+      internalID: -1423589405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_31
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 197
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b748f2d0835c974abf5c83ca7efe04a
+      internalID: -1178424223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_32
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 197
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7e1a62e59596b4e956d2c46c8a5c8d
+      internalID: -1584394288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_33
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 197
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2824d1e9059034184f7d19bbd307bb
+      internalID: 1113320132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_34
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 197
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c21866e0f0a4542a31a57cd7f6d8fe
+      internalID: -1338336342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_35
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 197
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a015b940c7bfa8d4998d4ca7cbd163a2
+      internalID: -811697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 197
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8770a68d02c28b34fa04207f37bdbda6
+      internalID: 1817357560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 197
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e792ef6816b5526489bbdfb2bb76d5eb
+      internalID: -1942974884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 197
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4653b90f87b037044b2eb5f3a790d61c
+      internalID: 1095786322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 197
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1b0f776a839ee42910198639c2b9c2
+      internalID: -1620790046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 197
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873268af988ea4243b4fcb1a4f082171
+      internalID: 1205499746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_41
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 197
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84eed056cabb9684e8e4ab12070638c8
+      internalID: -842958334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_42
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 197
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b83947cab19204c86b95f3dd9aca83
+      internalID: 926880353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_43
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 197
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73614077b270bdf47a1c416f289bb299
+      internalID: 1149233817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_44
+      rect:
+        serializedVersion: 2
+        x: 2744
+        y: 197
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e331a620d828d24da6702323aef2b0b
+      internalID: 441396192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4639e827084d4944a9802bbb405903d6
+      internalID: -30705534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_46
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650136045ac4b9f4aabc3e3fd3f8d76f
+      internalID: 440498988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_47
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db63129b32766b644b85978e04f84eec
+      internalID: 873837262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_48
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb06c9aa969fad43927cfa688401489
+      internalID: 124010194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_49
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 0
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80c360efa0077e4a87a41e5cc4d15c1
+      internalID: 1905882063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_50
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 0
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddee5d55780efc498ce32dcfc4420e9
+      internalID: 617662198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_51
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 0
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3796bfbeff898a448a53b861e55dd23
+      internalID: 808105576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_52
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 0
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbae686c40686204792986311982b492
+      internalID: 342974489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_53
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 0
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5df3efebc357854ebe38d99e651bb98
+      internalID: -330239990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_54
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 0
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b47f00e47c6f334bac0e9c322b76971
+      internalID: 871272704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_55
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 0
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99da28c363aaf834ab3115843cfb9c6d
+      internalID: 868394826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_56
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 0
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64815bd77820034d82a9412d609ba0f
+      internalID: -1339254270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_57
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 0
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7366c38952161fd409deb47dac79692e
+      internalID: -1828836988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_58
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 0
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071ed0a39a12cac4e93a08192590e95c
+      internalID: -178630067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant_2 planet sheet_59
+      rect:
+        serializedVersion: 2
+        x: 2744
+        y: 0
+        width: 196.26666
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be846f697d106848968402438cfbd88
+      internalID: 301395381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GasGiant_2 planet sheet_0: 942360592
+      GasGiant_2 planet sheet_1: -1673988271
+      GasGiant_2 planet sheet_10: -728633919
+      GasGiant_2 planet sheet_11: -1724315346
+      GasGiant_2 planet sheet_12: 859456769
+      GasGiant_2 planet sheet_13: -1749507216
+      GasGiant_2 planet sheet_14: -276674872
+      GasGiant_2 planet sheet_15: 887735460
+      GasGiant_2 planet sheet_16: 1760671176
+      GasGiant_2 planet sheet_17: -445027051
+      GasGiant_2 planet sheet_18: 429938683
+      GasGiant_2 planet sheet_19: -525880058
+      GasGiant_2 planet sheet_2: 486549123
+      GasGiant_2 planet sheet_20: -1351557345
+      GasGiant_2 planet sheet_21: -1764344470
+      GasGiant_2 planet sheet_22: 1350402907
+      GasGiant_2 planet sheet_23: -629836827
+      GasGiant_2 planet sheet_24: -1126185296
+      GasGiant_2 planet sheet_25: 109506049
+      GasGiant_2 planet sheet_26: 1215143323
+      GasGiant_2 planet sheet_27: -1426454049
+      GasGiant_2 planet sheet_28: 786596415
+      GasGiant_2 planet sheet_29: -474840268
+      GasGiant_2 planet sheet_3: -1932554432
+      GasGiant_2 planet sheet_30: -1423589405
+      GasGiant_2 planet sheet_31: -1178424223
+      GasGiant_2 planet sheet_32: -1584394288
+      GasGiant_2 planet sheet_33: 1113320132
+      GasGiant_2 planet sheet_34: -1338336342
+      GasGiant_2 planet sheet_35: -811697
+      GasGiant_2 planet sheet_36: 1817357560
+      GasGiant_2 planet sheet_37: -1942974884
+      GasGiant_2 planet sheet_38: 1095786322
+      GasGiant_2 planet sheet_39: -1620790046
+      GasGiant_2 planet sheet_4: -1798473332
+      GasGiant_2 planet sheet_40: 1205499746
+      GasGiant_2 planet sheet_41: -842958334
+      GasGiant_2 planet sheet_42: 926880353
+      GasGiant_2 planet sheet_43: 1149233817
+      GasGiant_2 planet sheet_44: 441396192
+      GasGiant_2 planet sheet_45: -30705534
+      GasGiant_2 planet sheet_46: 440498988
+      GasGiant_2 planet sheet_47: 873837262
+      GasGiant_2 planet sheet_48: 124010194
+      GasGiant_2 planet sheet_49: 1905882063
+      GasGiant_2 planet sheet_5: -888171010
+      GasGiant_2 planet sheet_50: 617662198
+      GasGiant_2 planet sheet_51: 808105576
+      GasGiant_2 planet sheet_52: 342974489
+      GasGiant_2 planet sheet_53: -330239990
+      GasGiant_2 planet sheet_54: 871272704
+      GasGiant_2 planet sheet_55: 868394826
+      GasGiant_2 planet sheet_56: -1339254270
+      GasGiant_2 planet sheet_57: -1828836988
+      GasGiant_2 planet sheet_58: -178630067
+      GasGiant_2 planet sheet_59: 301395381
+      GasGiant_2 planet sheet_6: -2017351870
+      GasGiant_2 planet sheet_7: 1733400746
+      GasGiant_2 planet sheet_8: -274086662
+      GasGiant_2 planet sheet_9: 1720532053
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

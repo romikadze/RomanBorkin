@@ -1,0 +1,1460 @@
+fileFormatVersion: 2
+guid: 3af9e84edb0757e4a8eae121d0aa188b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Terrain planet sheet_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 208
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45dca29b1f2d024b88ad1929ecb7957
+      internalID: 1181688298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 208
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe36936664a35f64cb6d382113890f96
+      internalID: 1313261384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 208
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89711c0cb7dd04949a691e674ca90ed2
+      internalID: 948188338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 208
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d5aed25eb98d646ad3dc9a4f9e3d63
+      internalID: 1806396958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 208
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193230e1689e4f246a61351b5ed62673
+      internalID: -595803648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 208
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f53505c1608df4dac3db64f9fba91c
+      internalID: -1474959185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_6
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 208
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ae1fa812f0da542bac8b1b52105e95
+      internalID: 576823936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_7
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 208
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a067e8ad7bc4846b5170fe8b4404a2
+      internalID: 1654201623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_8
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 208
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ffe3596c6b63a4bab79dee34516cf1
+      internalID: -565596056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_9
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 208
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47499e4a37b631244a347be0e9fed3b7
+      internalID: 500613469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_10
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 208
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9dc824e0abfa04c9d9695671ef91e8
+      internalID: -1086793404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_11
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 208
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f936c4df2bb07f54b9f61827c3c720e2
+      internalID: -309224446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_12
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 208
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b908985238240944b0d0e827ed2dbd2
+      internalID: -2120954054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_13
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 208
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3622287a46e33d4981024dc2a740faf
+      internalID: -485124525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_14
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 208
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8edf5941374ec43ba332146bb5ffd9
+      internalID: -1652742590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 140
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047e4ea3826846e408538c2aac1707d8
+      internalID: 252068834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_16
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 140
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53abe562d92e2004681908dd98fb3180
+      internalID: 1328910715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_17
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 140
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28e6a73bb90a4342b2c933a49fc3476
+      internalID: 910373846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_18
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 140
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae4463aa8746ee43b09c180ff13b73a
+      internalID: -161657897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_19
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 140
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35eb84c7a76e274a86a41b500c88f23
+      internalID: -1723657441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_20
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 140
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b127565bcafbb4cb016f69c14c6de8
+      internalID: 2075239571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_21
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 140
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3d0e1dd1afe784aaa7cf9b473b9fac
+      internalID: -150586249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_22
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 140
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d4f8166de080f4184343333032d06b
+      internalID: -838837567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_23
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 140
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7082a96c021d50945aaa378c36777f41
+      internalID: -1410135119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_24
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 140
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c448007244ff5d8409384398e8bfa255
+      internalID: 1615461254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_25
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 140
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b301f130252314d895112ebbc6b2eb
+      internalID: 1317958424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_26
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 140
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acb7c4906cc66946b73b16ba097b148
+      internalID: -1299240950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_27
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 140
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59ab1606cc592c42b41af1257db449d
+      internalID: 879407678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_28
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 140
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d5cbcfa9b1fa54ba70086cfb87f8f1
+      internalID: -1202757871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_29
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 140
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a924d1ab9c30b4c9dfc48eca756c45
+      internalID: -513561823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 72
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e98e40468209247b602bdc144b080a
+      internalID: -1473986400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_31
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 72
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c53c6ca57edbcc46a8fe4cf054fdb12
+      internalID: -2028347594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_32
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 72
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c996e5c1356f547b3a83179763b576
+      internalID: -249874585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_33
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 72
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5822f9ddf503fd94d9d1c438579b7a6d
+      internalID: -1140641366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_34
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 72
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0176a8ac2c98e5848805d621b8e8aac6
+      internalID: 919961201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_35
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 72
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04ba0668928875478eec55bcb648b7d
+      internalID: -570127711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_36
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 72
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7614331be9852f4cb9321ff293b4448
+      internalID: 2000496166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_37
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 72
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506b1a06aad40fc47a0f6894fb1d92b1
+      internalID: -790161129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_38
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 72
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1999d86ea292a42b92211f3a92f33e
+      internalID: 435724946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_39
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 72
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eee41c914e64d54484c8238c5359f62
+      internalID: 1994833118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_40
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 72
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7e5bba0ebda1c449eae11ebba9590f
+      internalID: 2029227517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_41
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 72
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d55b6c64930b6b4c8574fa9c4752690
+      internalID: -1056248594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_42
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 72
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac17e86291b19544831356459d1279b
+      internalID: -1381364002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_43
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 72
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47297d16f63efd418404e602edb5860
+      internalID: 386994642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_44
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 72
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa5578ee63e9b44da2b15d327dbe134
+      internalID: -2034791638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_45
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bae7712ca54be41b12e49b5d78848f
+      internalID: 306595033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_46
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 4
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3676cd9e9bf2a7e4c90912a2eacbddc2
+      internalID: 651648988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_47
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 4
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c89ba62acc0eb46b9186e38c486aab
+      internalID: 188982515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_48
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 4
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d269631a5c9fba45bf8e218d24fdf47
+      internalID: 1661369595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_49
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 4
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7fbb4eab3e42e43945db45d326486f
+      internalID: -1449107371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_50
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 4
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b698f0a44c761ab44bb21636fe248c5d
+      internalID: 328260400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_51
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 4
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8707037fb3030c4485d885c5acf768a
+      internalID: 1219145026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_52
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 4
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90dfc57b2779c8e46a093ae1a646a6b9
+      internalID: -1118606797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_53
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 4
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29964ad46112f114cab72ff273caf7e4
+      internalID: 1130238039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_54
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 4
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec11494ca0f7ef4aa6d050cb5edecf3
+      internalID: 1268640538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_55
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 4
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf5867f0deccbd459360429980c71ac
+      internalID: 911282071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_56
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 4
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe240f2a83c33d24b98705fceb4089f4
+      internalID: 2079761226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_57
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 4
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7225b5b3f620e42bfe2ce1bc01780c
+      internalID: 207907286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_58
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 4
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bdc56a4675c9a4da52eb81859ba823
+      internalID: 426672151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain planet sheet_59
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 4
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376a55c5b27df994eb76d614397192aa
+      internalID: 669197529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Terrain planet sheet_0: 1181688298
+      Terrain planet sheet_1: 1313261384
+      Terrain planet sheet_10: -1086793404
+      Terrain planet sheet_11: -309224446
+      Terrain planet sheet_12: -2120954054
+      Terrain planet sheet_13: -485124525
+      Terrain planet sheet_14: -1652742590
+      Terrain planet sheet_15: 252068834
+      Terrain planet sheet_16: 1328910715
+      Terrain planet sheet_17: 910373846
+      Terrain planet sheet_18: -161657897
+      Terrain planet sheet_19: -1723657441
+      Terrain planet sheet_2: 948188338
+      Terrain planet sheet_20: 2075239571
+      Terrain planet sheet_21: -150586249
+      Terrain planet sheet_22: -838837567
+      Terrain planet sheet_23: -1410135119
+      Terrain planet sheet_24: 1615461254
+      Terrain planet sheet_25: 1317958424
+      Terrain planet sheet_26: -1299240950
+      Terrain planet sheet_27: 879407678
+      Terrain planet sheet_28: -1202757871
+      Terrain planet sheet_29: -513561823
+      Terrain planet sheet_3: 1806396958
+      Terrain planet sheet_30: -1473986400
+      Terrain planet sheet_31: -2028347594
+      Terrain planet sheet_32: -249874585
+      Terrain planet sheet_33: -1140641366
+      Terrain planet sheet_34: 919961201
+      Terrain planet sheet_35: -570127711
+      Terrain planet sheet_36: 2000496166
+      Terrain planet sheet_37: -790161129
+      Terrain planet sheet_38: 435724946
+      Terrain planet sheet_39: 1994833118
+      Terrain planet sheet_4: -595803648
+      Terrain planet sheet_40: 2029227517
+      Terrain planet sheet_41: -1056248594
+      Terrain planet sheet_42: -1381364002
+      Terrain planet sheet_43: 386994642
+      Terrain planet sheet_44: -2034791638
+      Terrain planet sheet_45: 306595033
+      Terrain planet sheet_46: 651648988
+      Terrain planet sheet_47: 188982515
+      Terrain planet sheet_48: 1661369595
+      Terrain planet sheet_49: -1449107371
+      Terrain planet sheet_5: -1474959185
+      Terrain planet sheet_50: 328260400
+      Terrain planet sheet_51: 1219145026
+      Terrain planet sheet_52: -1118606797
+      Terrain planet sheet_53: 1130238039
+      Terrain planet sheet_54: 1268640538
+      Terrain planet sheet_55: 911282071
+      Terrain planet sheet_56: 2079761226
+      Terrain planet sheet_57: 207907286
+      Terrain planet sheet_58: 426672151
+      Terrain planet sheet_59: 669197529
+      Terrain planet sheet_6: 576823936
+      Terrain planet sheet_7: 1654201623
+      Terrain planet sheet_8: -565596056
+      Terrain planet sheet_9: 500613469
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

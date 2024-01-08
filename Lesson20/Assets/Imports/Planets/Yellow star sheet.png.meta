@@ -1,0 +1,1460 @@
+fileFormatVersion: 2
+guid: d68f07d69dfbdad4db9b9ea16e39a80e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Yellow star sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f116a253f320e4a863123362ca73d6
+      internalID: 1817641617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6da85c713db434fab37bc52d6ab171
+      internalID: 279182162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05fd401f8c7d8e4abf04ddeaaaae60e
+      internalID: -578670471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_3
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46666598293d12b45bfd627641792d85
+      internalID: 229389227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_4
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac5aaa3504568040a2f93a15a2643ee
+      internalID: -849022278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_5
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c263c9ce59bb1c647895846d1490e69f
+      internalID: 239527211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_6
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3270917b6f90941b795a644d5568bc
+      internalID: 1349189027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_7
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098b2c0ee84d75b49aa5c33879567553
+      internalID: -856271308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf393d191282da04c8f72aea5c6d79f0
+      internalID: -2032472505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185ac0d6c960e634aacc6171b033e9a6
+      internalID: -937146240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d657eb57db6b6348bf4daaa3aacda26
+      internalID: 694649788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b111e13e4560693419b8a5fe9f6fc388
+      internalID: -65753985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c661bd45a3940498f23d8368ef244c
+      internalID: 1572017985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85807f817d3c028459fa6871dff1c465
+      internalID: 1451421059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76de46cb289dd2043bd261d7004556ee
+      internalID: -1816889378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d548ea63fd4214daf751459732126b
+      internalID: -1375839562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_16
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428b8ba0f1406ee4aabeb4ae0c718b2f
+      internalID: 1850818913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_17
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b6f366a42e2134c8caeb649a7ef232
+      internalID: -1768347903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_18
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e62e16ad999cb74ba90ec25fd4655a2
+      internalID: 1414066852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_19
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64559ea898a9c9e428473f88ccad920b
+      internalID: 814947785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_20
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc7544d98114064cade389e67b780ec
+      internalID: -2074044073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_21
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25636ad1bc848d34c8c3398a5d4b8ee5
+      internalID: 20834232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_22
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06f3a25cb53b014b9cccd0553246858
+      internalID: 1149717292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e452d05b27a55fe499afc606a6baac96
+      internalID: -634744413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c94ccf19a239654daa8e97d85523737
+      internalID: 710073564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e87d531d578ef4d9c00b323dfa5a66
+      internalID: 1590540997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5253e5460d3d24741b06b75fdb6fed91
+      internalID: 1341362657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b862876704dc2b46b9085c630adc3ca
+      internalID: -2061766110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b86db44f2b4144da81f3f823682d88
+      internalID: 1223980491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fe5b85d8a239942b99f56a8016b085
+      internalID: -1741613167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6401b1f3ac453524480b495b70789977
+      internalID: -1393654217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_31
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d29224cb5d42fa4ba3a9903c7b57a9b
+      internalID: 676409833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_32
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957b9f4d9b1b27b40a44e136562fdc00
+      internalID: 1694099801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_33
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fa21b50ea39c146a63cd7d2d74fee0
+      internalID: -1139807489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_34
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca49713000f3994d9547389e9c6c6a8
+      internalID: -2127416468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_35
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148d39551c33ed04d9cefa92c5013c9c
+      internalID: -354642223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_36
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd7f14e9adfa4b4984a730c2597b5f4
+      internalID: -1000401132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_37
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46cf54760932f24a9b449d6b0245ea6
+      internalID: 1585068014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f569d0ab29da345b4da96cfee747a5
+      internalID: -692396665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3aef173cad7134e892d6bed9ac252a
+      internalID: 2103819429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadb995f62c8bd649b7fe08d3b745806
+      internalID: -689076538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b9062de915b9c4bb4431fe34890cd3
+      internalID: -126669612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94dc671616af8ba4fb917b4f72154d25
+      internalID: 232183064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc33e0b0115b6d45b10bb5b8f9b4c23
+      internalID: -1353803731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfebcaffcf35a784392c27e7c91b917e
+      internalID: -293424298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b5067828cef5d48b3e5c4e66436f50
+      internalID: -1028794539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_46
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5b18dcfd727a2439d689905b53d46e
+      internalID: 2041726936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_47
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04eee29f014dbe24b819f009a4ccb96e
+      internalID: 537262101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_48
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc1d8ea09be51c4f8ad9993dead7ac5
+      internalID: 810819673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_49
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122768dccd266844db66c56e8663bb5e
+      internalID: -1396858776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_50
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6984fc3a30248eb4189bb93d6da06916
+      internalID: 248077902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_51
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66627e3ec4824934fbbf84a13022bd18
+      internalID: 743577858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_52
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949ee89d279936642854fdb09254f780
+      internalID: -550312852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_53
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62332b682cd4c954c8bb939d7ecf8823
+      internalID: -357833961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_54
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e5dcc958de3e84c96764e6d655e9c8
+      internalID: -668387548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_55
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21296661ffcdb764b8dfc2a1204b414a
+      internalID: 1546949712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_56
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c05c306515563143bc14c14e5a03275
+      internalID: 1278823445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_57
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d848aae46bb7d4448bc334bdef01da9a
+      internalID: -1523445039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_58
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a3517d2bde9e6438698b5d3974ad32
+      internalID: -1176778050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow star sheet_59
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6083f75778ef32f41b598c82aff94344
+      internalID: -1085520178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Yellow star sheet_0: 1817641617
+      Yellow star sheet_1: 279182162
+      Yellow star sheet_10: 694649788
+      Yellow star sheet_11: -65753985
+      Yellow star sheet_12: 1572017985
+      Yellow star sheet_13: 1451421059
+      Yellow star sheet_14: -1816889378
+      Yellow star sheet_15: -1375839562
+      Yellow star sheet_16: 1850818913
+      Yellow star sheet_17: -1768347903
+      Yellow star sheet_18: 1414066852
+      Yellow star sheet_19: 814947785
+      Yellow star sheet_2: -578670471
+      Yellow star sheet_20: -2074044073
+      Yellow star sheet_21: 20834232
+      Yellow star sheet_22: 1149717292
+      Yellow star sheet_23: -634744413
+      Yellow star sheet_24: 710073564
+      Yellow star sheet_25: 1590540997
+      Yellow star sheet_26: 1341362657
+      Yellow star sheet_27: -2061766110
+      Yellow star sheet_28: 1223980491
+      Yellow star sheet_29: -1741613167
+      Yellow star sheet_3: 229389227
+      Yellow star sheet_30: -1393654217
+      Yellow star sheet_31: 676409833
+      Yellow star sheet_32: 1694099801
+      Yellow star sheet_33: -1139807489
+      Yellow star sheet_34: -2127416468
+      Yellow star sheet_35: -354642223
+      Yellow star sheet_36: -1000401132
+      Yellow star sheet_37: 1585068014
+      Yellow star sheet_38: -692396665
+      Yellow star sheet_39: 2103819429
+      Yellow star sheet_4: -849022278
+      Yellow star sheet_40: -689076538
+      Yellow star sheet_41: -126669612
+      Yellow star sheet_42: 232183064
+      Yellow star sheet_43: -1353803731
+      Yellow star sheet_44: -293424298
+      Yellow star sheet_45: -1028794539
+      Yellow star sheet_46: 2041726936
+      Yellow star sheet_47: 537262101
+      Yellow star sheet_48: 810819673
+      Yellow star sheet_49: -1396858776
+      Yellow star sheet_5: 239527211
+      Yellow star sheet_50: 248077902
+      Yellow star sheet_51: 743577858
+      Yellow star sheet_52: -550312852
+      Yellow star sheet_53: -357833961
+      Yellow star sheet_54: -668387548
+      Yellow star sheet_55: 1546949712
+      Yellow star sheet_56: 1278823445
+      Yellow star sheet_57: -1523445039
+      Yellow star sheet_58: -1176778050
+      Yellow star sheet_59: -1085520178
+      Yellow star sheet_6: 1349189027
+      Yellow star sheet_7: -856271308
+      Yellow star sheet_8: -2032472505
+      Yellow star sheet_9: -937146240
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

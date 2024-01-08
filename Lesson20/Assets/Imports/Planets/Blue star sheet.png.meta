@@ -1,0 +1,1460 @@
+fileFormatVersion: 2
+guid: 7cca20b72898017449f9840b1368f5c7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blue star sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f586831dd2263d849a3e70aa04d48d44
+      internalID: -1654923965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf96fa38f675e984988135d7fab99796
+      internalID: -523133462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96403b1d3441f374e88d87cfb62ff17a
+      internalID: -1440442181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_3
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b067d7df179aaf741b79f4c6e20e5b12
+      internalID: -50046139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_4
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0389e3749f95142b14df69857aadb8
+      internalID: 109442105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_5
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d614b8f03d1a4f4397c209bc7386942
+      internalID: 421643907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_6
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b28d71f5a330be46a93bc3de9649288
+      internalID: 1991863985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_7
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2d59c9e902dee4d8297b3cb2646c55
+      internalID: -398860817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6336cb42a0f14df4fbf4805f3ab75f9b
+      internalID: 846995708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f146d8a8f233c47ac72457f4947a5c
+      internalID: 61589508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b069ee729a63e334ca8b04b71a2cd063
+      internalID: -961752965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eade6c13e05d9f4aaec190b026bfa49
+      internalID: -1801487647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5587b25a4e38d604b97c9c890a8d3062
+      internalID: 1607182338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c6b8d3562c382468287daaa630cc28
+      internalID: -1587076795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061df5c19ea2d974f9f2b52fc5721434
+      internalID: -2017678274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d37ff3c88a4894cade4ead561f2eb4
+      internalID: 446348243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_16
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec5d6b601abba647bfab6421ef027d3
+      internalID: 1558579605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_17
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d12f91c22abeb46af297b9bb33730f
+      internalID: 2034703883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_18
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032f14a21d79235428d63c69fa3b84a5
+      internalID: -1296661940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_19
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824fd224624e2f742bac400b0750df18
+      internalID: -1639484956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_20
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b3d24d1a621ce42a6a7ddd10e464ed
+      internalID: 294131678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_21
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c738ddf1f128c145b3e56652529371e
+      internalID: 1285910778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_22
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943a2cee6be88e5409649792f35a29a5
+      internalID: 1003764724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ca986437d841b4b960fa296888461a
+      internalID: -1129595055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44dd3d30c67b3a240af3d452338b311d
+      internalID: -76261237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b440b933fbcdbf641ac42459bc6eab7e
+      internalID: -1963064810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c29cf30f2dd88e4884f24788168e852
+      internalID: 1204075699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd685076ab7f8a4aa491d1894b706b9
+      internalID: -1212747409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8d99df15520f443a58e3b5aac4de73
+      internalID: 1878437881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af0b6443a45c474689c8f44d4359411
+      internalID: 950332769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1290fdf64b4a57f49b62973833502507
+      internalID: -761828097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_31
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef52c84920f54f40a3d113de7300c4c
+      internalID: -402604988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_32
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcf633edabfdc34b88fdebe748e0d35
+      internalID: 488129153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_33
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b459769eb4d39946a08b2627c52c905
+      internalID: -362715988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_34
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e185526cb349d4faa5fd05fae0d84c
+      internalID: -930257221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_35
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e93c5f831680c478ba5124e43a9490
+      internalID: 194487837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_36
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84eb7f32442b2c4bb5897a377f17bbc
+      internalID: -1454920120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_37
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea76693426a3f341978e64a422c2f51
+      internalID: -561846942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fea36e5e856a7e44a2d908a5bfe2c37
+      internalID: -1789520034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae046303bb0751347ac08af43a4f8e93
+      internalID: 16367513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411167e3b9b3ee94889e709751761ea5
+      internalID: -561797430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c46cb9aa2c8c5a41abdfaf95d059d26
+      internalID: 1877814755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dba66ecebd021248a8f140bfe38ed6a
+      internalID: 1763476868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47f96b3f5a0316428d8ee85b7c6eab2
+      internalID: -944441481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058dff298900dcd4e9a118f0bcebd4d1
+      internalID: 1615121461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf6ce677cbd5134687aef975bd6d89f
+      internalID: -1129931659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_46
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15d939da21e73e41bc161b177203c7a
+      internalID: 106464452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_47
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8475116c342d94b9b01346ab52d51d
+      internalID: 852919446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_48
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e72fc7d0936664d8211c92ad7f600c
+      internalID: -1299014552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_49
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026cce9506f2fa74bb7b911ed9d70e05
+      internalID: -2112239326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_50
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26c58bfeeec969498ab368bc70cb407
+      internalID: 1533862189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_51
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6cc1fc09468844fac53c41ec00d3fd
+      internalID: 973680026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_52
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd09e03beb333348be5c51c18eceb05
+      internalID: -233177471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_53
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a7fbec1c22b5f4aa6850e517e2dc7f
+      internalID: 2075897898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_54
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3905a6d0a3b7770459e095c4a4cce81d
+      internalID: -910318842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_55
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0181e9c757ea12645b0642d31268ca10
+      internalID: 1517962597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_56
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2180a62f048d37f49974ebb989fd075a
+      internalID: -2138368025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_57
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8502db599e213cc4da4625732558e28f
+      internalID: 1539600098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_58
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d8aa4cce932df46bb3ba4ba2190177
+      internalID: -1995133706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue star sheet_59
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feeb4a8470dc5df4d942afb45aeca200
+      internalID: -1554782192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Blue star sheet_0: -1654923965
+      Blue star sheet_1: -523133462
+      Blue star sheet_10: -961752965
+      Blue star sheet_11: -1801487647
+      Blue star sheet_12: 1607182338
+      Blue star sheet_13: -1587076795
+      Blue star sheet_14: -2017678274
+      Blue star sheet_15: 446348243
+      Blue star sheet_16: 1558579605
+      Blue star sheet_17: 2034703883
+      Blue star sheet_18: -1296661940
+      Blue star sheet_19: -1639484956
+      Blue star sheet_2: -1440442181
+      Blue star sheet_20: 294131678
+      Blue star sheet_21: 1285910778
+      Blue star sheet_22: 1003764724
+      Blue star sheet_23: -1129595055
+      Blue star sheet_24: -76261237
+      Blue star sheet_25: -1963064810
+      Blue star sheet_26: 1204075699
+      Blue star sheet_27: -1212747409
+      Blue star sheet_28: 1878437881
+      Blue star sheet_29: 950332769
+      Blue star sheet_3: -50046139
+      Blue star sheet_30: -761828097
+      Blue star sheet_31: -402604988
+      Blue star sheet_32: 488129153
+      Blue star sheet_33: -362715988
+      Blue star sheet_34: -930257221
+      Blue star sheet_35: 194487837
+      Blue star sheet_36: -1454920120
+      Blue star sheet_37: -561846942
+      Blue star sheet_38: -1789520034
+      Blue star sheet_39: 16367513
+      Blue star sheet_4: 109442105
+      Blue star sheet_40: -561797430
+      Blue star sheet_41: 1877814755
+      Blue star sheet_42: 1763476868
+      Blue star sheet_43: -944441481
+      Blue star sheet_44: 1615121461
+      Blue star sheet_45: -1129931659
+      Blue star sheet_46: 106464452
+      Blue star sheet_47: 852919446
+      Blue star sheet_48: -1299014552
+      Blue star sheet_49: -2112239326
+      Blue star sheet_5: 421643907
+      Blue star sheet_50: 1533862189
+      Blue star sheet_51: 973680026
+      Blue star sheet_52: -233177471
+      Blue star sheet_53: 2075897898
+      Blue star sheet_54: -910318842
+      Blue star sheet_55: 1517962597
+      Blue star sheet_56: -2138368025
+      Blue star sheet_57: 1539600098
+      Blue star sheet_58: -1995133706
+      Blue star sheet_59: -1554782192
+      Blue star sheet_6: 1991863985
+      Blue star sheet_7: -398860817
+      Blue star sheet_8: 846995708
+      Blue star sheet_9: 61589508
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

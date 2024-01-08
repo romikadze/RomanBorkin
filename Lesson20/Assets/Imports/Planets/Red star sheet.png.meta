@@ -1,0 +1,1460 @@
+fileFormatVersion: 2
+guid: 38a5ddacd9c7ae241936d4d4cca142fc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Red star sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084e4c9d35b6f414eb6aee8b9f171d90
+      internalID: -2080751732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b9ed2fa429116408f517f37074d015
+      internalID: 846393687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e733e087ebac34795b7cccab7012e4
+      internalID: -1910715190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_3
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b41566d49b0ab459c01b39467d7c04
+      internalID: 186995639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_4
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488736b045a41c541bc4c64224c2c3cc
+      internalID: 1475752287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_5
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d560f068ecb294694f85ff55de67f5
+      internalID: -1661373098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_6
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27acda77d96d2649a8fe76efd1dc1c7
+      internalID: -1278601668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_7
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2cedca4f02d9349b35588b9bb37842
+      internalID: 1832995824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ef271ee9afce74cbb218e725882ba3
+      internalID: 1075641075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90960c9e59a5304f970c742c338b19b
+      internalID: 215092743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897f3306bc8e591408822351d6a58e4d
+      internalID: 1900431110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129184a9ef84a8141bb9ecc4ab43eb9e
+      internalID: -1223835788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5795260160ce64dac49f75d337ed03
+      internalID: 1936503750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa539011c5ab704db221dd34802c2c9
+      internalID: -399234405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 399
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47332b8285664214da82af5c353604cc
+      internalID: -1706730114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f35f4b7709b3784198cb5863f93b24c
+      internalID: -611437225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_16
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43e80452f0b90a4cbb3bd0dc168d950
+      internalID: 561127195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_17
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4680255423e5d0847b2ad8edd04e03f4
+      internalID: -1950924024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_18
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a230cc47991444141bf00908aba5895f
+      internalID: 541034316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_19
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30144e2c2adb1a45a05fa440bd7f46a
+      internalID: 33488497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_20
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfab0a31bf111d4bb2ea813273a2ade
+      internalID: -1467667052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_21
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f405841574061c4ea2882510567af48
+      internalID: -1962099966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_22
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b7fbb0829230449bd12c7e73f144de
+      internalID: 1882698685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769eec21775e7134ea4d519950111544
+      internalID: -1417154225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b47804176c2970418636e8778def364
+      internalID: 414577108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d72d4b561b907f428b3f01423fa4090
+      internalID: 2078993646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a49f5f3bf2d6be4293bdec8e24bb4db
+      internalID: 260391165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcb8dd3604416c4f9850bffb33e78f8
+      internalID: -921681587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922276adfe80e7a429c4bd48ab0a14e6
+      internalID: -629336422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 266
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0cefaf07e96974fb8592cb7980023e
+      internalID: 755835337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783548a2251d43f43b198cc61eafe0e2
+      internalID: 2123393391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_31
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bb3feea6654ad42aae8e8157ec517c
+      internalID: 1372734558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_32
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870c5d7a41da37d48a6998214dc9c1db
+      internalID: -1453055120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_33
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cad3b62ddc3ac046b8f15d84a81385e
+      internalID: -438512138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_34
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f0a508ab7b6f14eabdd113695e2170
+      internalID: 58562464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_35
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06462037d0a610d46b9058d0d02b50d1
+      internalID: -557116482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_36
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a33d6f9dccff348a9f89dbc9f567fb
+      internalID: -1560583087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_37
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ba9d0d6485ebb4fa84157df19a8d2b
+      internalID: 2046329392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7453a2295b710824496f037a7709197f
+      internalID: 1651612973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e88f327b5be7945a963656b945854e
+      internalID: -1966840204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d621e83e9402944aec5b9092ae7bb8
+      internalID: -1347546577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b832562f0485974ea7bc808a51f0912
+      internalID: -1599096861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b31a6afc2429a43bf9254391bdfe39
+      internalID: 876218877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd197e2f01f6d744812302f04a5d57c
+      internalID: -1318261724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 133
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1c1bd25f512b249be0bdd866015eb3
+      internalID: 11037536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81838abbf4f81a4283a2dd79ea3b30b
+      internalID: 1215138822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_46
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239a53df7fb3c3542a1aa4df3253250c
+      internalID: 1720011932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_47
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b417c033ac241ab4c9bf919f984ba1ce
+      internalID: -352868304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_48
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0793a47e76d1d4da991ee1efdc1ea7
+      internalID: -640664655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_49
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bcc40d75550bd49ac067cac6dcdda0
+      internalID: 2048880707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_50
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b246e1e0e0a29b49a98a08f056d8a1d
+      internalID: -484209378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_51
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f5c15c97a292d4f9796ce740804c08
+      internalID: 1603344136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_52
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c655503d3874694d820f7d895cfc510
+      internalID: 179788480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_53
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e622bf01413ba034197eb07584b54d98
+      internalID: 1403917127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_54
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232f441c61d32aa4195a1c0ad69bc63e
+      internalID: -1790130508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_55
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6a53f1432b1dc408a7f6ab5354b6eb
+      internalID: 1790647687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_56
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6882ed7361e4e7e448819a3875cd8deb
+      internalID: -99249381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_57
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5219d124daaee7c4aa170e2d018f58f5
+      internalID: -1773348242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_58
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45984c093b6bed7449cb383266968476
+      internalID: 1964527605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red star sheet_59
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 0
+        width: 132.26666
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bfa5b54acd26d4fb863c4fbe537583
+      internalID: -968061173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Red star sheet_0: -2080751732
+      Red star sheet_1: 846393687
+      Red star sheet_10: 1900431110
+      Red star sheet_11: -1223835788
+      Red star sheet_12: 1936503750
+      Red star sheet_13: -399234405
+      Red star sheet_14: -1706730114
+      Red star sheet_15: -611437225
+      Red star sheet_16: 561127195
+      Red star sheet_17: -1950924024
+      Red star sheet_18: 541034316
+      Red star sheet_19: 33488497
+      Red star sheet_2: -1910715190
+      Red star sheet_20: -1467667052
+      Red star sheet_21: -1962099966
+      Red star sheet_22: 1882698685
+      Red star sheet_23: -1417154225
+      Red star sheet_24: 414577108
+      Red star sheet_25: 2078993646
+      Red star sheet_26: 260391165
+      Red star sheet_27: -921681587
+      Red star sheet_28: -629336422
+      Red star sheet_29: 755835337
+      Red star sheet_3: 186995639
+      Red star sheet_30: 2123393391
+      Red star sheet_31: 1372734558
+      Red star sheet_32: -1453055120
+      Red star sheet_33: -438512138
+      Red star sheet_34: 58562464
+      Red star sheet_35: -557116482
+      Red star sheet_36: -1560583087
+      Red star sheet_37: 2046329392
+      Red star sheet_38: 1651612973
+      Red star sheet_39: -1966840204
+      Red star sheet_4: 1475752287
+      Red star sheet_40: -1347546577
+      Red star sheet_41: -1599096861
+      Red star sheet_42: 876218877
+      Red star sheet_43: -1318261724
+      Red star sheet_44: 11037536
+      Red star sheet_45: 1215138822
+      Red star sheet_46: 1720011932
+      Red star sheet_47: -352868304
+      Red star sheet_48: -640664655
+      Red star sheet_49: 2048880707
+      Red star sheet_5: -1661373098
+      Red star sheet_50: -484209378
+      Red star sheet_51: 1603344136
+      Red star sheet_52: 179788480
+      Red star sheet_53: 1403917127
+      Red star sheet_54: -1790130508
+      Red star sheet_55: 1790647687
+      Red star sheet_56: -99249381
+      Red star sheet_57: -1773348242
+      Red star sheet_58: 1964527605
+      Red star sheet_59: -968061173
+      Red star sheet_6: -1278601668
+      Red star sheet_7: 1832995824
+      Red star sheet_8: 1075641075
+      Red star sheet_9: 215092743
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
